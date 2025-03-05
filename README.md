@@ -1,6 +1,6 @@
 # JettonMoB
 
-Telegram bot for monitoring jetton price
+Telegram bot for monitoring your value in jetton
 
 ## Installation
 
